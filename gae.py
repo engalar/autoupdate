@@ -2,7 +2,7 @@
 # coding:utf-8
 
 __version__ = '3.1.5'
-__password__ = ''
+__password__ = 'yj<yygy>'
 __hostsdeny__ = ()  # __hostsdeny__ = ('.youtube.com', '.youku.com')
 __content_type__ = 'image/gif'
 __mirror_userjs__ = ()  # __mirror_userjs__ = '//www.example.com/user.js'
